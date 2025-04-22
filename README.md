@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Shreya Variya</h1>
 <h3 align="center">A passionate BSc IT student at Veer Narmad South Gujarat University</h3>
 
