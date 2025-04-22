@@ -11,7 +11,7 @@
 <hr>
 
 ### 🚀 About Me:
-- 🔭 I’m currently **Studying BSc IT**.
+- 🔭 Currently, **I am a student of BSc IT**.
 - 👨‍💻 All of my projects are available at 👉 [https://github.com/Shreya-Variya](https://github.com/Shreya-Variya)
 - 🤝 Connect with me on LinkedIn 👉 [www.linkedin.com/in/shreya-variya](www.linkedin.com/in/shreya-variya)
 - 📫 How to reach me 👉 **variyashreya2005@gmail.com**
@@ -24,11 +24,7 @@
 </p><hr>
 
 ### 🛠️ Languages and Tools:
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
+<p align="left">  
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">         
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -41,6 +37,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
   
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
