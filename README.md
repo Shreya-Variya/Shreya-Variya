@@ -1,4 +1,4 @@
-![logo]()
+![logi](https://github.com/Shreya-Variya/Shreya-Variya/blob/main/GitHub%20Profile%20Image.png)
 <h1 align="center">Hi 👋, I'm Shreya Variya</h1>
 <h3 align="center">A passionate BSc IT student at Veer Narmad South Gujarat University</h3>
 
