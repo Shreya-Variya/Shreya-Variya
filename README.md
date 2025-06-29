@@ -75,13 +75,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px" height="50px" />
   </a> 
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50px" height="50px" />
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50px" height="50px" />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px" height="50px" />
+  </a>
   
 </p><hr>
 
