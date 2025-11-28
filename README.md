@@ -28,7 +28,7 @@
 <p align="left">  
 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+      <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">         
@@ -89,6 +89,10 @@
 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px" height="50px" />
+  </a>
+
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="50px" height="50px" />
   </a>
   
 </p><hr>
