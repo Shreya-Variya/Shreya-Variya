@@ -95,7 +95,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-variya&show_icons=true&locale=en&layout=compact" alt="shreya-variya" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-variya&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="shreya-variya" />
 </p><br>
 
 <p align="center">
