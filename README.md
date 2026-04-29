@@ -55,6 +55,8 @@
   <td align="center" width="60"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a> </td>
+  </tr>
+  <tr>
   <td align="center" width="60"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
   </a></td>
