@@ -1,6 +1,6 @@
 ![logi](https://github.com/Shreya-Variya/Shreya-Variya/blob/main/GitHub%20Profile%20Image-1.png)
 <h1 align="center">Hi 👋, I'm Shreya Variya</h1>
-<h3 align="center">A passionate BSc IT student at Veer Narmad South Gujarat University</h3>
+<h3 align="center">Software Developer | Web (MERN) & Mobile (Android)</h3>
 
 <p align="center">
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>
@@ -12,7 +12,7 @@
 <hr>
 
 ### 🚀 About Me:
-- 🔭 Currently, **I am a student of BSc IT**.
+- 🔭 Currently, **I am a passionate BSc IT student at Veer Narmad South Gujarat University**.
 - 👨‍💻 All of my projects are available at 👉 [https://github.com/Shreya-Variya](https://github.com/Shreya-Variya)
 - 🤝 Connect with me on LinkedIn 👉 [www.linkedin.com/in/shreya-variya](www.linkedin.com/in/shreya-variya)
 - 📫 How to reach me 👉 **variyashreya2005@gmail.com**
