@@ -28,58 +28,58 @@
 ### 🛠️ Languages and Tools:
 <table>
   <tr>
-   <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+   <td align="center" width="60"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
   </a></td>
-  <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">         
+  <td align="center" width="60"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">         
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
   </a> </td>
-  <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> 
   </a></td>
-  <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
   </a></td>
-  <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
   </a></td>
-  <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
   </a> </td>
-  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   </a></td>
-  <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
   </a> </td>
-  <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a> </td>
-  <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
   </a></td>
-  <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
   </a> </td>
-  <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+  <td align="center" width="60"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> </td>
-  <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <td align="center" width="60"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
   </a> </td>
-  <td><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <td align="center" width="60"><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
   </a> </td>
-  <td><a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <td align="center" width="60"><a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
   </a></td>
-  <td><a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <td align="center" width="60"><a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
   </a> </td>
-  <td><a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+  <td align="center" width="60"><a href="https://developer.android.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="40" height="40" />
   </a></td>
-  <td><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <td align="center" width="60"><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" />
   </a></td>
   </tr>
