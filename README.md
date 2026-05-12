@@ -89,13 +89,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-variya&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="shreya-variya" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreya-variya&layout=compact&theme=light" alt="shreya-variya" />
 </p><br>
 
 <p align="center">
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shreya-variya&show_icons=true&locale=en" alt="shreya-variya" />
+  &nbsp;<img src="https://github-readme-stats-fast.vercel.app/api?username=shreya-variya&show_icons=true&theme=light" alt="shreya-variya" />
 </p><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-variya&" alt="shreya-variya" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shreya-variya&theme=light" alt="shreya-variya" />
 </p><br>
