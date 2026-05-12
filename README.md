@@ -1,4 +1,3 @@
-![logi](https://github.com/Shreya-Variya/Shreya-Variya/blob/main/GitHub%20Profile%20Image-1.png)
 <h1 align="center">Hi 👋, I'm Shreya Variya</h1>
 <h3 align="center">Software Developer | Web (MERN) & Mobile (Android)</h3>
 
