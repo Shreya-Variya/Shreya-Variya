@@ -12,7 +12,7 @@
 <hr>
 
 ### 🚀 About Me:
-- 🔭 Currently, **I am a passionate BSc IT student at Veer Narmad South Gujarat University**.
+- 🔭 Currently, **I am a passionate MSc IT student at Veer Narmad South Gujarat University**.
 - 👨‍💻 All of my projects are available at 👉 [https://github.com/Shreya-Variya](https://github.com/Shreya-Variya)
 - 🤝 Connect with me on LinkedIn 👉 [www.linkedin.com/in/shreya-variya](www.linkedin.com/in/shreya-variya)
 - 📫 How to reach me 👉 **variyashreya2005@gmail.com**
