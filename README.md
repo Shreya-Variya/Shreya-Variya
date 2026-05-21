@@ -13,13 +13,13 @@
 ### 🚀 About Me:
 - 🔭 Currently, **I am a passionate MSc IT student at Veer Narmad South Gujarat University**.
 - 👨‍💻 All of my projects are available at 👉 [https://github.com/Shreya-Variya](https://github.com/Shreya-Variya)
-- 🤝 Connect with me on LinkedIn 👉 [www.linkedin.com/in/shreya-variya](www.linkedin.com/in/shreya-variya)
+- 🤝 Connect with me on LinkedIn 👉 [https://www.linkedin.com/in/shreya-variya/](https://www.linkedin.com/in/shreya-variya/)
 - 📫 How to reach me 👉 **variyashreya2005@gmail.com**
 <hr>
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/shreya variya" target="blank">
+  <a href="https://www.linkedin.com/in/shreya-variya/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya variya" height="40" width="40" />
   </a>
 </p><hr>
