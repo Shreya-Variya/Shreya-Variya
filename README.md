@@ -51,8 +51,8 @@
   <td align="center" width="60"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
   </a> </td>
-  <td align="center" width="60"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  <td align="center" width="60"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
   </a> </td>
   </tr>
   <tr>
